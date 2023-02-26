@@ -76,7 +76,7 @@ SHOW GRANTS FOR 'user2'@'localhost';
 <body>
 <table border=1>
 <tr>
-<td bgcolor=Black class='medium' style='text-align:center; font-weight:bold;'>Grants for user2@localhost</td>
+<td bgcolor=Black class='medium'>Grants for user2@localhost</td>
 </tr>
 
 <tr>
@@ -171,7 +171,7 @@ This command is used to display a list of all tables in the currently selected d
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>Tables_in_project1</td>
+<td bgcolor=black class='medium'>Tables_in_project1</td>
 </tr>
 
 <tr>
@@ -225,14 +225,14 @@ This SQL command selects all columns and rows from the "users" table in the curr
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -469,8 +469,8 @@ This SQL command selects all the rows from the users table, but only with the fi
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>last_name</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
 </tr>
 
 <tr>
@@ -588,14 +588,14 @@ This SQL command retrieves all the rows from the users table where the **gender*
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -723,14 +723,14 @@ This SQL command selects all columns from the users table where the **gender** c
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -770,14 +770,14 @@ This SQL command selects all rows from the users table where the **gender** colu
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -894,14 +894,14 @@ This SQL command selects all columns from the users table where the **gender** c
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1048,14 +1048,14 @@ This SQL command selects all the columns from the users table and **sorts** the 
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1282,14 +1282,14 @@ This SQL command selects all the rows from the "users" table and **orders** them
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1516,8 +1516,8 @@ This SQL statement selects the **first name, last name**, and **concatenates** t
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>Name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
+<td bgcolor=black class='medium'>Name</td>
+<td bgcolor=black class='medium'>department</td>
 </tr>
 
 <tr>
@@ -1654,7 +1654,7 @@ This SQL query selects all the **distinct** (unique) values of the "**location**
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
+<td bgcolor=black class='medium'>location</td>
 </tr>
 
 <tr>
@@ -1710,14 +1710,14 @@ This SQL query retrieves all the rows from the users table where the **join_date
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1801,14 +1801,14 @@ This SQL command selects all columns and rows from the users table where the **f
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1859,14 +1859,14 @@ This query will select all the rows from the "users" table where the "**first_na
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1917,14 +1917,14 @@ This query will select all the records from the users table where the **last_nam
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -1997,14 +1997,14 @@ This SQL query will select all the rows from the "users" table where the "**last
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -2133,14 +2133,14 @@ This query will retrieve all the rows from the users table where the **first_nam
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -2335,14 +2335,14 @@ This query will select all the rows from the users table where the value in the 
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>id</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>email</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>location</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>join_date</td>
+<td bgcolor=black class='medium'>id</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>email</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>location</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>join_date</td>
 </tr>
 
 <tr>
@@ -2513,12 +2513,12 @@ This query will return column first_name, last_name, gender from **Users** table
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>product_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>price</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>order_date</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>product_name</td>
+<td bgcolor=black class='medium'>price</td>
+<td bgcolor=black class='medium'>order_date</td>
 </tr>
 
 <tr>
@@ -2632,12 +2632,12 @@ This query will return column first_name, last_name, gender from **Users** table
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>product_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>price</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>order_date</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>product_name</td>
+<td bgcolor=black class='medium'>price</td>
+<td bgcolor=black class='medium'>order_date</td>
 </tr>
 
 <tr>
@@ -2832,12 +2832,12 @@ This query will return column first_name, last_name, gender from **Users** table
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>product_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>rating</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>review_text</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>product_name</td>
+<td bgcolor=black class='medium'>rating</td>
+<td bgcolor=black class='medium'>review_text</td>
 </tr>
 
 <tr>
@@ -2949,11 +2949,11 @@ RIGHT JOIN Orders O ON U.id = O.user_id;
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>product_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>price</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>product_name</td>
+<td bgcolor=black class='medium'>price</td>
 </tr>
 
 <tr>
@@ -3131,13 +3131,13 @@ RIGHT JOIN Reviews R ON O.id = R.order_id;
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>first_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>last_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>gender</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>product_name</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>price</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>rating</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>review_text</td>
+<td bgcolor=black class='medium'>first_name</td>
+<td bgcolor=black class='medium'>last_name</td>
+<td bgcolor=black class='medium'>gender</td>
+<td bgcolor=black class='medium'>product_name</td>
+<td bgcolor=black class='medium'>price</td>
+<td bgcolor=black class='medium'>rating</td>
+<td bgcolor=black class='medium'>review_text</td>
 </tr>
 
 <tr>
@@ -3345,7 +3345,7 @@ This SQL command selects the **count** of the **number of products** in the **or
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>COUNT(Product_name)</td>
+<td bgcolor=black class='medium'>COUNT(Product_name)</td>
 </tr>
 
 <tr>
@@ -3366,7 +3366,7 @@ This SQL query will return the **maximum** value of the **price** column from th
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>MAX(price)</td>
+<td bgcolor=black class='medium'>MAX(price)</td>
 </tr>
 
 <tr>
@@ -3387,7 +3387,7 @@ This SQL query will return the **minimum** value of the **price** column from th
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>MIN(price)</td>
+<td bgcolor=black class='medium'>MIN(price)</td>
 </tr>
 <tr>
 <td class='normal' valign='top'>80.00</td>
@@ -3407,7 +3407,7 @@ This command will return the **sum** of **all** the **values** in the **price** 
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>SUM(price)</td>
+<td bgcolor=black class='medium'>SUM(price)</td>
 </tr>
 <tr>
 <td class='normal' valign='top'>5830.00</td>
@@ -3427,8 +3427,8 @@ This query will select two columns, one with the **product_name** in **uppercase
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>UCASE(product_name)</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>LCASE(product_name)</td>
+<td bgcolor=black class='medium'>UCASE(product_name)</td>
+<td bgcolor=black class='medium'>LCASE(product_name)</td>
 </tr>
 
 <tr>
@@ -3498,8 +3498,8 @@ This SQL query is used to **retrieve** the **count of users** in **each departme
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>COUNT(department)</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>COUNT(department)</td>
 </tr>
 
 <tr>
@@ -3569,8 +3569,8 @@ This SQL query selects the department and the **count of each department** from 
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>COUNT(department)</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>COUNT(department)</td>
 </tr>
 
 <tr>
@@ -3605,8 +3605,8 @@ This SQL query will **group** the users table **by department** and **count** th
 <body>
 <table border=1>
 <tr>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>department</td>
-<td bgcolor=black class='medium' style='text-align:center; font-weight:bold;'>COUNT(department)</td>
+<td bgcolor=black class='medium'>department</td>
+<td bgcolor=black class='medium'>COUNT(department)</td>
 </tr>
 
 <tr>
