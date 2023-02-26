@@ -1705,7 +1705,7 @@ This SQL query retrieves all the rows from the users table where the **join_date
 #### *Output* 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 <table border=1>
